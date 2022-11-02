@@ -6,3 +6,7 @@
 int main(void)
 {printf("Hello, World" \n);}
 ```
+## My First Task List!! :laughing:
+- [ ] Make my Porfolio using README.md
+- [ ] Learning more about GitHub
+- [ ] Learning how to use Markdown
